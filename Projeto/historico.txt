@@ -1,0 +1,88 @@
+--- SIMULAÇÃO DO IMPOSTO SOBRE OS RENDIMENTOS DE PESSOAS SINGULARES 2023 ---
+Simulação realizada no dia 12/12/2023 ás 21:28:34.395967
+ --- Informações ---
+Situação Fiscal: Solteiro 
+Rendimento Global: 12.0 €
+Dependentes: 2
+Deduções á coleta: 1200.00 €
+--- Resultado ---
+Resultado: Receber :1806.21€ 
+----------------------------------------------------------------
+--- SIMULAÇÃO DO IMPOSTO ÚNICO DE CIRCULAÇÃO 2023 ---
+Simulação realizada no dia 12/12/2023 ás 21:30:06.341827
+ --- Caracterização da viatura ---
+Modelo: Corsa 
+Categoria: A 
+Tabela: A
+Consumo de CO2: N/A
+Ciclo de CO2: N/A 
+Combustível: Gasóleo
+Cilindrada: 1000 cm3
+Ano: 1701
+--- Resumo dos valores a pagar ---
+Preço da Cilindrada: 0€
+Taxa adicional para altas cilindradas: 0€
+Coeficiente adicional: 1
+Taxa de CO2: 0€
+Taxa de combustivel: 0€
+Valor final a pagar: 0€
+----------------------------------------------------------------
+--- SIMULAÇÃO DOS IMPOSTOS SOBRE OS RENDIMENTOS 2023 2ºSEMESTRE ---
+Simulação realizada no dia 12/12/2023 ás 21:45:07.901607
+ --- Caracterização ---
+Trabalhador Dependente
+Situação Fiscal: Casado: 1 titular
+Dependentes: 2
+Contribuição Social: Segurança Social
+ADSE: Não 
+Valor do subsidio de alimentação 110.00€
+Dias com subsidio de alimentação: 22.00
+Forma de pagamento do subsidio de alimentação: Cartão/Vale de refeição
+Outros subsidios tributaveis: 0.00 €
+Invalidez, deficiencia ou incapacidade: Sim
+--- Resumo dos descontos ---
+Valor tributável: 2000.00€
+Retenção na fonte: 0.00€
+Taxa Social Única: 220.00€
+Desconto ADSE: 0.00€
+Valor após descontos: 1890.00€
+----------------------------------------------------------------
+--- SIMULAÇÃO DOS IMPOSTOS SOBRE OS RENDIMENTOS 2023 2ºSEMESTRE ---
+Simulação realizada no dia 13/12/2023 ás 10:07:26.934242
+ --- Caracterização ---
+Trabalhador Dependente
+Situação Fiscal: Casado: 2 titular
+Dependentes: 2
+Contribuição Social: Segurança Social
+ADSE: Não 
+Valor do subsidio de alimentação 176.00€
+Dias com subsidio de alimentação: 22.00
+Forma de pagamento do subsidio de alimentação: Cartão/Vale de refeição
+Outros subsidios tributaveis: 0.00 €
+Invalidez, defeciencia ou incapacidade: Não
+--- Resumo dos descontos ---
+Valor tributável: 1000.00€
+Retenção na fonte: 53.05€
+Taxa Social Única: 110.00€
+Desconto ADSE: 0.00€
+Valor após descontos: 1012.95€
+----------------------------------------------------------------
+--- SIMULAÇÃO DO IMPOSTO ÚNICO DE CIRCULAÇÃO 2023 ---
+Simulação realizada no dia 7/2/2024 ás 22:13:17.037170
+ --- Caracterização da viatura ---
+Modelo: za 
+Categoria: A 
+Tabela: A
+Consumo de CO2: N/A
+Ciclo de CO2: N/A 
+Combustível: Gasolina
+Cilindrada: 1 cm3
+Ano: 1
+--- Resumo dos valores a pagar ---
+Preço da Cilindrada: 0€
+Taxa adicional para altas cilindradas: 0€
+Coeficiente adicional: 1
+Taxa de CO2: 0€
+Taxa de combustivel: 0€
+Valor final a pagar: 0€
+----------------------------------------------------------------
